@@ -20,7 +20,7 @@ npm i
 npm run watch
 ```
 
-## Project Structure
+## 🗃 Project Structure
 
 The structure of this project is very similar to the structure of a monorepo.
 
@@ -99,6 +99,7 @@ When running building, environment variables are loaded from the following files
 ## Author
 
 Takuya Matsuyama ([@craftzdog](https://github.com/craftzdog))
+
 Rafael Ribeiro ([@rafaelmgr12](https://github.com/rafaelmgr12))
 
 
