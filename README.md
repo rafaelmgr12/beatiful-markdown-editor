@@ -1,7 +1,7 @@
 # Markdown Editor App
 
 # Markdown Editor Tutorial
-![clipboard.png](odKqfRwGb-clipboard.png)
+![clipboard.png](images/odKqfRwGb-clipboard.png)
 App build using the following tutorial by [craftzdog](https://github.com/craftzdog), the video can be found [here](https://www.youtube.com/watch?v=gxBis8EgoAg)
 
 
